@@ -1,4 +1,4 @@
-# Best-MomAssignment
+# Best-Mom-Assignment
 
 The following repository contains three folders:
 
